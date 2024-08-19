@@ -58,4 +58,4 @@ Prompt engineering is the practice of designing and refining the queries given t
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: Tell me about school, This is quite broad and could lead to various interpretations, school system, Curriculum, levels etc.
-A more improve prompt is Tell me about Mechanical Engineering Tertiary Institution, this is more refine and clear prompt, have narrowed my preferences to get the best possible reposense form the AI
+A more improve prompt is Tell me about Mechanical Engineering Tertiary Institution, this is more refine and clear prompt, have narrowed my preferences to get the best possible reponse form the AI
